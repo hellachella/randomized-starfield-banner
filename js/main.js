@@ -9,6 +9,6 @@ for (i = 0; i < 75; i++) {
   $addStars.css('left', Math.random() * 1000);
   $addStars.css('top', Math.random() * 1000);
   $addStars.css('opacity', Math.random() * 1000);
-  $banner.append($addStars);
 
+  $banner.append($addStars);
 };
