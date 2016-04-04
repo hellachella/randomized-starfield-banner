@@ -49,8 +49,7 @@ body {
   height: 30px;
   position: absolute;
   top: 0;
-  width: 30px;
-  transform: scale(50%, 50%);
+  width: 0px;
   background: url("../images/star.svg") no-repeat center center / contain transparent;
   transition: all 2s ease;
 }
